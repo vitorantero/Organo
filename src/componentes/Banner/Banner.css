@@ -1,16 +1,8 @@
 .banner {
-    background-color: #363636;
+    background-color: #6278F7;
     text-align: center;
 }
 
 .banner img {
     max-width: 100%;
-}
-
-.caroussel {
-    height: '160px';
-    color: '#fff';
-    line-height: '160px';
-    text-align: 'center';
-    background: '#364d79';
 }
